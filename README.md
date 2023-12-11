@@ -40,5 +40,6 @@ Kumpulan scripts yang salah satu member disini gunakan untuk mempelajari AI + be
 - [ExLlamaV2](https://github.com/turboderp/exllamav2)
 - [Text generation web UI](https://github.com/oobabooga/text-generation-webui)
 - [AIScripts](https://github.com/TheBlokeAI/AIScripts)
+- [zaraki-tools](https://github.com/zarakiquemparte/zaraki-tools)
 - [LLM-notebooks](https://github.com/DocShotgun/LLM-notebooks)
 - [LLM Course](https://github.com/mlabonne/llm-course)
