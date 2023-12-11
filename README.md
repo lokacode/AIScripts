@@ -25,10 +25,20 @@ Kumpulan scripts yang salah satu member disini gunakan untuk mempelajari AI + be
 (Sebagian besar requirements sudah terpenuhi jika menggunakan [Google Colab](https://colab.research.google.com/))
 
 ## Cara Menjalankan
-- Clone repository ini
-- Buka folder `notebooks` atau `scripts`
-- Jalankan notebook atau script yang diinginkan
+
+### Text generation web UI
+
+
+### Merging scripts
+
+
+### Quant scripts
+
 
 ## Referensi
 - [Mergekit](https://github.com/cg123/mergekit)
 - [ExLlamaV2](https://github.com/turboderp/exllamav2)
+- [Text generation web UI](https://github.com/oobabooga/text-generation-webui)
+- [AIScripts](https://github.com/TheBlokeAI/AIScripts)
+- [LLM-notebooks](https://github.com/DocShotgun/LLM-notebooks)
+- [LLM Course](https://github.com/mlabonne/llm-course)
