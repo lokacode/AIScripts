@@ -1,7 +1,7 @@
 # AIScripts
 Kumpulan scripts yang salah satu member disini gunakan untuk mempelajari AI + beberapa notebooks tutor
 
-<p align="center"><img src="https://huggingface.co/R136a1/Madang/resolve/main/square%20c6.png"/><font size="6"> <b>YOO!</b> </font></p>
+<p align="center"><img src="https://huggingface.co/R136a1/Madang/resolve/main/square%20c6.png"/></p>
 
 ## Daftar Isi
 - [AIScripts](#aiscripts)
